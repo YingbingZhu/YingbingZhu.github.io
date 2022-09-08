@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>draft - Tag - Yingbing Zhu</title>
-    <link>http://yingbingzhu.github.io/yingbingz.github.io/tags/draft/</link>
+    <link>https://yingbingzhu.github.io/yingbingz.github.io/tags/draft/</link>
     <description>draft - Tag - Yingbing Zhu</description>
-    <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 08 Sep 2022 22:11:53 &#43;0800</lastBuildDate><atom:link href="http://yingbingzhu.github.io/yingbingz.github.io/tags/draft/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 08 Sep 2022 22:11:53 &#43;0800</lastBuildDate><atom:link href="https://yingbingzhu.github.io/yingbingz.github.io/tags/draft/" rel="self" type="application/rss+xml" /><item>
   <title>First_post</title>
-  <link>http://yingbingzhu.github.io/yingbingz.github.io/posts/first_post/</link>
+  <link>https://yingbingzhu.github.io/yingbingz.github.io/posts/first_post/</link>
   <pubDate>Thu, 08 Sep 2022 22:11:53 &#43;0800</pubDate>
   <author>Yingbing Zhu</author>
-  <guid>http://yingbingzhu.github.io/yingbingz.github.io/posts/first_post/</guid>
+  <guid>https://yingbingzhu.github.io/yingbingz.github.io/posts/first_post/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
